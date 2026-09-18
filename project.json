@@ -13,5 +13,8 @@
         "authorization"
     ],
     "noDirectLaunch": [],
-    "configs": {}
+    "configs": {
+        "org.gluu.test": {}
+    },
+    "name": "agama-authzen"
 }
