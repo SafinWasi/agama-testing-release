@@ -1,2 +1,5 @@
 Flow org.gluu.test
      Basepath ""
+Log "@info " Test
+it_zleox = {success:true, data: { userId: "as9233Qz", property1: "value1"}}
+Finish it_zleox
