@@ -3,7 +3,7 @@
     "description": "Experimental agama flow for authzen",
     "type": "community",
     "author": "SafinWasi",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "authorWebsite": "https://github.com/SafinWasi/agama-testing-release",
     "githubUri": "https://github.com/SafinWasi/agama-testing-release",
     "license": "apache-2.0",
